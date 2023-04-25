@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">A passionate and curious Full-Stack Developer Trainee 💻🚀</h3>
+<h3 align="left">A passionate and curious Full-Stack Developer Trainee 💻🚀</h3>
 
 ###
 
@@ -19,7 +19,7 @@
 <p align="left">Since my childhood, I have been attracted to everything related to computers and technology. Recently, I have decided to switch careers to what has always been my vocation.<br><br>Art and mastery are my mottoes.</p>
 
 ###
-<br>
+
 <h1 align="center">Rapidfire</h1>
 
 ###
@@ -64,7 +64,7 @@
 </div>
 
 ###
-<br>
+
 <h1 align="right">Reach Me Out!</h1>
 
 ###
@@ -73,7 +73,7 @@
   <a href="https://linkedin.com/in/infinitidevs" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:inifnitidevs@gmail.com" target="_blank">
+  <a href="mailto:infinitidevs@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -87,7 +87,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=infinitidevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=infinitidevs&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitidevs&locale=en&hide_title=false&layout=default &card_width=320&langs_count=2&theme=dark&hide_border=true&order=2" height="150"       alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitidevs&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -98,6 +98,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/infinitidevs/infinitidevs/blob/output/snake.svg" alt="Snake animation" />
+# ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark"  />
+</div>
 
 ###
