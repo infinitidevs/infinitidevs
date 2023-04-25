@@ -1,4 +1,4 @@
-<h1 align="center">Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),  My name is Andrés</h1>
+<h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="30"/>,  My name is Andrés</h1>
 
 ###
 
@@ -12,14 +12,14 @@
 
 ###
 
-<h1 align="left">Glad to see you here!</h1>
+<h1 align="center">Glad to see you here!</h1>
 
 ###
 
 <p align="left">Since my childhood, I have been attracted to everything related to computers and technology. Recently, I have decided to switch careers to what has always been my vocation.<br><br>Art and mastery are my mottoes.</p>
 
 ###
-
+<br>
 <h1 align="left">Rapidfire</h1>
 
 ###
@@ -34,7 +34,7 @@
 
 ###
 
-<h1 align="center">I code with</h1>
+<h1 align="center">I code with:</h1>
 
 ###
 
@@ -64,12 +64,12 @@
 </div>
 
 ###
-
-<h1 align="center">Reach Me Out!</h1>
+<br>
+<h1 align="right">Reach Me Out!</h1>
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://linkedin.com/in/infinitidevs" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
