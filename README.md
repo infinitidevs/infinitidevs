@@ -95,3 +95,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/infinitidevs/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/infinitidevs/infinitidevs/blob/output/snake.svg" alt="Snake animation" />
+
+###
