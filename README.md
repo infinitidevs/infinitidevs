@@ -20,11 +20,11 @@
 
 ###
 <br>
-<h1 align="left">Rapidfire</h1>
+<h1 align="center">Rapidfire</h1>
 
 ###
 
-<p align="left">🌍  I'm based in Spain<br>✉️  You can contact me at Gmail: infinitidevs / andreshiguita9<br>🧠  I'm learning JS, React, NextJs, Testing and so on...<br>🤝  I'm open to collaborating on interesting projects<br>⚡  I keep night shift switched on at all times</p>
+<p align="center">🌍  I'm based in Spain<br>✉️  You can contact me at Gmail: infinitidevs / andreshiguita9<br>🧠  I'm learning JS, React, NextJs, Testing and so on...<br>🤝  I'm open to collaborating on interesting projects<br>⚡  I keep night shift switched on at all times</p>
 
 ###
 
@@ -73,7 +73,7 @@
   <a href="https://linkedin.com/in/infinitidevs" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="inifnitidevs@gmail.com" target="_blank">
+  <a href="mailto:inifnitidevs@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -86,8 +86,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=infinitidevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitidevs&locale=en&hide_title=false&layout=default &card_width=320&langs_count=2&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=infinitidevs&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitidevs&locale=en&hide_title=false&layout=default &card_width=320&langs_count=2&theme=dark&hide_border=true&order=2" height="150"       alt="languages graph"  />
 </div>
 
 ###
@@ -95,9 +95,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/infinitidevs/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/infinitidevs/infinitidevs/blob/output/snake.svg" alt="Snake animation" />
-
-###
