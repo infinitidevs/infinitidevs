@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">A passionate and curious Full-Stack Developer Trainee 💻🚀</h3>
+<h3 align="center">A passionate and curious Full-Stack Developer Trainee 💻🚀</h3>
 
 ###
 
@@ -98,7 +98,7 @@
 
 ###
 
-# ✍️ Random Dev Quote
+🏻 💡 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark"  />
