@@ -61,6 +61,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" height="40" width="52" alt="vercel logo"  />
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" width="52" alt="netlify logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" height="40" width="52" alt="notion logo"  />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="52" alt="postman logo"  />
+  <img src="https://www.svgrepo.com/show/306821/swagger.svg" height="40" width="40" alt="swagger logo"  />
+  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" height="40" width="40" alt="eslint logo"  />
+  <img src="https://www.svgrepo.com/show/354208/prettier.svg" height="40" width="40" alt="prettier logo"  />
 </div>
 
 ###
@@ -98,10 +105,11 @@
 
 ###
 
-🏻 💡 Random Dev Quote
+# 💡 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark"  />
 </div>
 
 ###
+
