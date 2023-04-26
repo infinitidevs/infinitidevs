@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://rishavanand.github.io/static/images/greetings.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/l2Sq2zPVz6FLD6Z5S/giphy.gif"  />
 
 ###
 
