@@ -2,13 +2,11 @@
 
 ###
 
-<br clear="both">
+
 
 <img align="right" height="200" src="https://media.giphy.com/media/l2Sq2zPVz6FLD6Z5S/giphy.gif"  />
 
 ###
-
-<br>
 
 <h3 align="center">A passionate and curious Full-Stack Developer Trainee 💻🚀</h3>
 
