@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">A passionate and curious Full-Stack Developer Trainee 💻🚀</h3>
+<h3 align="center">A problem-solving-minded and curious Full-Stack Developer Trainee 💻🚀</h3>
 
 ###
 
